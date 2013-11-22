@@ -77,3 +77,13 @@ packages+=\
   #you packages...
   com.custom.restservices.MyService
 ```
+
+
+
+
+P.S.:
+=====
+
+It was used some classes and ideas from [Stormpath - todos-jersey](/stormpath/todos-jersey) example :). 
+
+Thanks.
