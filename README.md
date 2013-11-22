@@ -1,7 +1,9 @@
 ATGRESTfull
 ===========
 
-[Oracle ATG](http://www.oracle.com/us/products/applications/commerce/atg/index.html) powered with a great RESTful Framework [Jersey](https://jersey.java.net/).
+Well, in my opinion native Oracle ATG RESTful API is really deprecated, complicated and strange. So, I created this module.
+
+An [Oracle ATG](http://www.oracle.com/us/products/applications/commerce/atg/index.html) powered with a great RESTful Framework [Jersey](https://jersey.java.net/).
 
 How does Oracle ATG RESTful module works? Easy and simple like this:
 
