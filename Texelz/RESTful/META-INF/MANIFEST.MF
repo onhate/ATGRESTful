@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+ATG-Config-Path: config/
+ATG-Required: DAS
+ATG-Class-Path: 
+ lib/jsr311-api-1.1.1.jar 
+ lib/asm-3.1.jar 
+ lib/jackson-core-asl-1.9.2.jar 
+ lib/jackson-jaxrs-1.9.2.jar 
+ lib/jackson-mapper-asl-1.9.2.jar 
+ lib/jackson-xc-1.9.2.jar 
+ lib/jersey-client-1.17.1.jar 
+ lib/jersey-core-1.17.1.jar 
+ lib/jersey-json-1.17.1.jar 
+ lib/jersey-server-1.17.1.jar 
+ lib/jersey-servlet-1.17.1.jar 
+ lib/jettison-1.1.jar 
+ lib/classes.jar
+  
