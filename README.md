@@ -3,7 +3,7 @@ ATGRESTfull
 
 [Oracle ATG](http://www.oracle.com/us/products/applications/commerce/atg/index.html) powered with a great RESTful Framework [Jersey](https://jersey.java.net/).
 
-Easy and simple like this:
+How does Oracle ATG RESTful module works? Easy and simple like this:
 
 ```Java
 @Path("/atg-restful")
