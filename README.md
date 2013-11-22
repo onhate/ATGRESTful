@@ -84,6 +84,6 @@ packages+=\
 P.S.:
 =====
 
-It was used some classes and ideas from [Stormpath - todos-jersey](/stormpath/todos-jersey) example :). 
+It was used some classes and ideas from [Stormpath - todos-jersey](https://github.com/stormpath/todos-jersey) example :). 
 
 Thanks.
